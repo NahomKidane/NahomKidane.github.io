@@ -1,2 +1,4 @@
 name: Nahom Kidane
 markdown: Kramdown
+
+permalink: /blog/:year/:month/:day/:title
